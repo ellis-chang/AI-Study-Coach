@@ -11,7 +11,7 @@ A full-stack study planning platform that builds adaptive study schedules, track
 <!-- Replace with a real screenshot before sharing this repo.
      A GIF of the calendar drag-and-drop or the Kanban board is worth
      more than any paragraph below it. -->
-![Dashboard](docs/screenshots/dashboard.png)
+![Demo](demo.gif)
  
 ---
  
